@@ -61,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
