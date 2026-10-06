@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/27agnish/Leetcode-my-solve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0088-merge-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/27agnish/Leetcode-my-solve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27agnish/Leetcode-my-solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -91,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/27agnish/Leetcode-my-solve/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
