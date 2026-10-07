@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/27agnish/Leetcode-my-solve/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/27agnish/Leetcode-my-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/27agnish/Leetcode-my-solve/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
