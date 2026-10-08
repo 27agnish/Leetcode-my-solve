@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/27agnish/Leetcode-my-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/27agnish/Leetcode-my-solve/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
