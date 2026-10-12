@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/27agnish/Leetcode-my-solve/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/27agnish/Leetcode-my-solve/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/27agnish/Leetcode-my-solve/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/27agnish/Leetcode-my-solve/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/27agnish/Leetcode-my-solve/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
