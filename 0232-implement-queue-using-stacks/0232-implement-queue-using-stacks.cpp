@@ -1,33 +1,32 @@
 class MyQueue {
 public:
-    stack<int> q1;
-    stack<int> q2;
+    stack<int> s1;
+    stack<int> s2;
     MyQueue() {     
     }
     void push(int x) {
-        while(!q1.empty()){
-            q2.push(q1.top());
-            q1.pop();
+        while(!s1.empty()){
+            s2.push(s1.top());
+            s1.pop();
         }
-        q1.push(x);
-        while(!q2.empty()){
-            q1.push(q2.top());
-            q2.pop();
+        s1.push(x);
+        while(!s2.empty()){
+            s1.push(s2.top());
+            s2.pop();
         }  
     }
     int pop() {
-        int val = q1.top();
-        q1.pop();
+        int val = s1.top();
+        s1.pop();
         return val;
     }
     int peek() {
-        return q1.top();
+        return s1.top();
     }
     bool empty() {
-        return q1.empty(); 
+        return s1.empty(); 
     }
 };
-
 /**
  * Your MyQueue object will be instantiated and called as such:
  * MyQueue* obj = new MyQueue();
