@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27agnish/Leetcode-my-solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/27agnish/Leetcode-my-solve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/27agnish/Leetcode-my-solve/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/27agnish/Leetcode-my-solve/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/27agnish/Leetcode-my-solve/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/27agnish/Leetcode-my-solve/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/27agnish/Leetcode-my-solve/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
