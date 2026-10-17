@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/27agnish/Leetcode-my-solve/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/27agnish/Leetcode-my-solve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0622-design-circular-queue](https://github.com/27agnish/Leetcode-my-solve/tree/master/0622-design-circular-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0977-squares-of-a-sorted-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/27agnish/Leetcode-my-solve/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -121,17 +122,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/27agnish/Leetcode-my-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/27agnish/Leetcode-my-solve/tree/master/0021-merge-two-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/27agnish/Leetcode-my-solve/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/27agnish/Leetcode-my-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/27agnish/Leetcode-my-solve/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/27agnish/Leetcode-my-solve/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/27agnish/Leetcode-my-solve/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/27agnish/Leetcode-my-solve/tree/master/0622-design-circular-queue) |
 ## Memoization
 |  |
 | ------- |
