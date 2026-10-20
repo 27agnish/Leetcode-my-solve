@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/27agnish/Leetcode-my-solve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27agnish/Leetcode-my-solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/27agnish/Leetcode-my-solve/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/27agnish/Leetcode-my-solve/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/27agnish/Leetcode-my-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/27agnish/Leetcode-my-solve/tree/master/0232-implement-queue-using-stacks) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/27agnish/Leetcode-my-solve/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/27agnish/Leetcode-my-solve/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/27agnish/Leetcode-my-solve/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
