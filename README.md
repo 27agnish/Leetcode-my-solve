@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/27agnish/Leetcode-my-solve/tree/master/0071-simplify-path) |
 | [0680-valid-palindrome-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/27agnish/Leetcode-my-solve/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/27agnish/Leetcode-my-solve/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/27agnish/Leetcode-my-solve/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/27agnish/Leetcode-my-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
