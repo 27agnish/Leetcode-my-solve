@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/27agnish/Leetcode-my-solve/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/27agnish/Leetcode-my-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/27agnish/Leetcode-my-solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/27agnish/Leetcode-my-solve/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/27agnish/Leetcode-my-solve/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/27agnish/Leetcode-my-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/27agnish/Leetcode-my-solve/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/27agnish/Leetcode-my-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/27agnish/Leetcode-my-solve/tree/master/0225-implement-stack-using-queues) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/27agnish/Leetcode-my-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/27agnish/Leetcode-my-solve/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/27agnish/Leetcode-my-solve/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0680-valid-palindrome-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/27agnish/Leetcode-my-solve/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
