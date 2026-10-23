@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27agnish/Leetcode-my-solve/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/27agnish/Leetcode-my-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/27agnish/Leetcode-my-solve/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/27agnish/Leetcode-my-solve/tree/master/0053-maximum-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/27agnish/Leetcode-my-solve/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/27agnish/Leetcode-my-solve/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/27agnish/Leetcode-my-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/27agnish/Leetcode-my-solve/tree/master/0496-next-greater-element-i) |
