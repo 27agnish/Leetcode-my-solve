@@ -14,6 +14,7 @@ public:
             count -= isVowel(s[l++]);
             count += isVowel(s[++r]);
             maxi=max(maxi,count);
+            if(maxi==k) return k;
         }
         return maxi;  
     }
