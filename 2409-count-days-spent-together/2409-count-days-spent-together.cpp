@@ -13,7 +13,6 @@ public:
         int start = max(toDays(arriveAlice),toDays(arriveBob));
         int end = min(toDays(leaveAlice),toDays(leaveBob));
         int together = end-start+1;
-        if(together>=0) return together;
-        else return 0;  
+        return max(0,together); 
     }
 };
