@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/27agnish/Leetcode-my-solve/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/27agnish/Leetcode-my-solve/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
