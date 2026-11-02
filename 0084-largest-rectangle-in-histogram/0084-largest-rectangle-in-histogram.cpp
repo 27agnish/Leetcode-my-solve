@@ -6,7 +6,7 @@ public:
         vector<int> right(n,0);
         stack<int> s;
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){//left smallest nearest
             while(!s.empty() && heights[s.top()]>=heights[i]){
                 s.pop();
             }
@@ -15,9 +15,9 @@ public:
             s.push(i);
         }
 
-        while(!s.empty()) s.pop();
+        while(!s.empty()) s.pop();//empty stack for reuse
 
-        for(int i=n-1;i>=0;i--){
+        for(int i=n-1;i>=0;i--){//right smallest nearest
             while(!s.empty() && heights[s.top()]>=heights[i]){
                 s.pop();
             }
@@ -29,7 +29,7 @@ public:
         for(int i=0;i<n;i++){
             int curr=0;
             int bredth=right[i]-left[i]-1;
-            curr=heights[i]*bredth;
+            curr=heights[i]*bredth;//calculation part
             if(max<curr) max=curr;
         }
         return max;
